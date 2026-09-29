@@ -64,8 +64,7 @@ const { cacheSignal } = require("react")
 //     console.log("Aluno reprovado!");
 // }
 
-caches cancelAnimationFrame cancelIdleCallback cacheSignal old spice
-dsds
+// caches cancelAnimationFrame cancelIdleCallback cacheSignal
 
 // // map
 // const dobro = numeros.map(n => n * 2);
