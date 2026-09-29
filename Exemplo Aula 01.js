@@ -3,6 +3,8 @@
 // let alunos = 4;
 // var exemplo = "Exemplo de variável var";
 
+const { cacheSignal } = require("react")
+
 // console.log("Curso:", curso);
 // console.log("Quantidade de alunos:", alunos);
 
@@ -62,49 +64,7 @@
 //     console.log("Aluno reprovado!");
 // }
 
-// // Laço FOR
-// console.log("\nContagem:");
-
-// for (let i = 1; i <= 5; i++) {
-//     console.log(i);
-// }
-
-// // Arrays
-// const frutas = ["Maçã", "Banana", "Laranja"];
-
-// console.log(frutas);
-// console.log(frutas[1]);
-
-// frutas.push("Uva");
-
-// for (let fruta of frutas) {
-//     console.log(fruta);
-// }
-
-// // Objetos
-// const aluno = {
-//     nome: "Maria",
-//     idade: 22,
-//     nota: 9.5
-// };
-
-// console.log(aluno.nome);
-// console.log(aluno.nota);
-
-// // Funções
-// function saudacao(nome) {
-//     return `Olá, ${nome}!`;
-// }
-
-// console.log(saudacao("Carlos"));
-
-// // Arrow Function
-// const quadrado = numero => numero * numero;
-
-// console.log(quadrado(5));
-
-// // Métodos de Array
-// const numeros = [2, 4, 6, 8, 10];
+// caches cancelAnimationFrame cancelIdleCallback cacheSignal
 
 // // map
 // const dobro = numeros.map(n => n * 2);
